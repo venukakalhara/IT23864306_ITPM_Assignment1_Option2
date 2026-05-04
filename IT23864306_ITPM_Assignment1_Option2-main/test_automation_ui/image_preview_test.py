@@ -131,6 +131,7 @@ def run_test():
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
+            executable_path=r"D:\chrome-headless-shell-win64\chrome-headless-shell-win64\chrome-headless-shell.exe",
             headless=args.headless,
             slow_mo=args.slow_mo_ms
         )
