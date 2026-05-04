@@ -7,6 +7,8 @@
 ## Project Overview
 This project focuses on performing functional and usability testing on the Pixelssuite website (https://www.pixelssuite.com/). The objective is to verify that the website features work correctly and provide a user-friendly experience.
 
+**GitHub Repository:** [https://github.com/venukakalhara/IT23864306_ITPM_Assignment1_Option2.git](https://github.com/venukakalhara/IT23864306_ITPM_Assignment1_Option2.git)
+
 ## Features Tested
 - Document conversion
 - PDF editing
